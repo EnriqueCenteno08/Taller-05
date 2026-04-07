@@ -12,7 +12,8 @@ EscanerQR
 - Observadores de fauna silvestre.
 
 *Entradas*
-- Sensor QR
+- Tipo de señal: Digital
+- Escáner/Sensor QR
 - Lectura del QR del brazalete
 - Intento físico de poder pasar
 - Corriente eléctrica
