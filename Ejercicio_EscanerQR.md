@@ -10,3 +10,10 @@ EscanerQR
 - Visitantes nacionales parque que comprenden un rango etario de 3 a 99 años.
 - Turistas y aventureros.
 - Observadores de fauna silvestre.
+
+*Entradas*
+- Sensor QR
+- Lectura del QR del brazalete
+- Intento físico de poder pasar
+- Corriente eléctrica
+- Señal del sensor de la puerta
