@@ -1,5 +1,9 @@
+Ejercicio Taller 05
+Estudiantes: Nahomi Cordero, Luis Enrique Moraga Centeno
+
 ## Nombre del sistema ##
 EscanerQR
+![Imagen ilustrativa EscanerQR](ImagenDispositivo.png)
 
 *Descripción del sistema*
 - Este consiste en un lector de QR para brazaletes de acceso a parques
